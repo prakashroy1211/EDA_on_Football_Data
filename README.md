@@ -13,3 +13,6 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 5. Player attributes with statistics as Attacking, Skills, Defense, Mentality, GK Skills, etc.
    
 7. Player personal data like Nationality, Club, DateOfBirth, Wage, Salary, etc.
+
+### Acknowledgements
+Data has been scraped from the publicly available website [https://sofifa.com](https://sofifa.com/).
